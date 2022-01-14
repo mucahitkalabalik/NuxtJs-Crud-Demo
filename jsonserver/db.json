@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "name": "Kurtlar Vadisi Pusu",
+      "producer": "Pana Film",
+      "language": "Türkçe",
+      "popularity": "8",
+      "runtime": "115",
+      "url": "https://upload.wikimedia.org/wikipedia/tr/1/1f/Kurtlar-vadisi-eski.jpg",
+      "id": 1
+    },
+    {
+      "name": "Spider Man Eve Dönüş",
+      "producer": "Marvel",
+      "language": "English",
+      "popularity": "8",
+      "runtime": "125",
+      "url": "https://cdn1.ntv.com.tr/gorsel/R4SQRBq7g0-XrAWdub0yow.jpg?width=960&mode=crop&scale=both",
+      "id": 3
+    },
+    {
+      "name": "Harry Potter",
+      "producer": "Max Production",
+      "language": "English",
+      "popularity": "8",
+      "runtime": "125",
+      "url": "https://cdn1.ntv.com.tr/gorsel/R4SQRBq7g0-XrAWdub0yow.jpg?width=960&mode=crop&scale=both",
+      "id": 4
+    },
+    {
+      "name": "Recep İvedik",
+      "producer": "Ay yapım",
+      "language": "Türkçe",
+      "popularity": "5",
+      "runtime": "118",
+      "url": "https://static.boxofficeturkiye.com/movie/poster/235/41/2008041-58540941@2x.jpg",
+      "id": 5
+    },
+    {
+      "name": "Don't Look Up",
+      "producer": "Max Poll",
+      "language": "English",
+      "popularity": "7",
+      "runtime": "122",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW3yo96FFKsJS62bDNo7-_AwjhQXT7HsgOMBytmNaxnlFoO5fK",
+      "id": 6
+    },
+    {
+      "name": "Matrix",
+      "producer": "Village Roadshow Pictures",
+      "language": "English",
+      "popularity": "6",
+      "runtime": "135",
+      "url": "https://i4.hurimg.com/i/hurriyet/75/750x422/5b97a90667b0a80e30393058.jpg",
+      "id": 7
+    },
+    {
+      "name": "Fast and Furious 3",
+      "producer": "Neal H. Moritz",
+      "language": "English",
+      "popularity": "10",
+      "runtime": "123",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UY720_.jpg",
+      "trueCheck": false,
+      "id": 8
+    }
+  ]
+}
